@@ -4,4 +4,4 @@ Puissance 4 (appelé aussi parfois 4 en ligne) est un jeu de stratégie combinat
 
 Ce projet a pour objectif d’implémenter le jeu de puissance 4, qui permet à deux utilisateurs de jouer entre eux, ou de jouer avec le robot en utilisant l’intelligence artificielle.
 
-![Alt text](E:\cours\S1\PHP\projet _puissance_4\screen?raw=true "Optional Title")
+![Alt text](https://github.com/anastayaa/puissance4/screens/choix.png?raw=true "Optional Title")
